@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Amwali</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 3px solid #e74c3c;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+        h3 {
+            color: #7f8c8d;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        .last-updated {
+            background-color: #ecf0f1;
+            padding: 10px;
+            border-radius: 6px;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+        .contact-info {
+            background-color: #e8f5e8;
+            padding: 15px;
+            border-radius: 6px;
+            margin-top: 30px;
+        }
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: white;
+        }
+        .data-table th,
+        .data-table td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        .data-table th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .data-table tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .highlight {
+            background-color: #fff3cd;
+            padding: 15px;
+            border-left: 4px solid #ffc107;
+            margin: 20px 0;
+        }
+        .security-box {
+            background-color: #d4edda;
+            padding: 15px;
+            border-left: 4px solid #28a745;
+            margin: 20px 0;
+        }
+        .warning-box {
+            background-color: #f8d7da;
+            padding: 15px;
+            border-left: 4px solid #dc3545;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        
+        <div class="last-updated">
+            <strong>Last Updated:</strong> December 22, 2024
+        </div>
+
+        <p>This Privacy Policy describes how Abdallah Alshemeri ("we," "our," or "us") collects, uses, and protects your information when you use the Amwali mobile application ("App").</p>
+
+        <div class="highlight">
+            <strong>Your Privacy Matters:</strong> We are committed to protecting your privacy and ensuring the security of your personal and financial information. This policy explains our practices regarding data collection, use, and protection.
+        </div>
+
+        <h2>1. Information We Collect</h2>
+        
+        <h3>1.1 Personal Information</h3>
+        <p>We may collect the following types of personal information:</p>
+        
+        <table class="data-table">
+            <thead>
+                <tr>
+                    <th>Data Type</th>
+                    <th>Purpose</th>
+                    <th>Storage Location</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Apple ID (CloudKit)</td>
+                    <td>Cloud synchronization</td>
+                    <td>Apple's CloudKit</td>
+                </tr>
+                <tr>
+                    <td>Device Information</td>
+                    <td>App functionality and support</td>
+                    <td>Local device only</td>
+                </tr>
+                <tr>
+                    <td>Usage Analytics</td>
+                    <td>App improvement</td>
+                    <td>Anonymized, local processing</td>
+                </tr>
+                <tr>
+                    <td>Crash Reports</td>
+                    <td>Bug fixes and stability</td>
+                    <td>Apple's crash reporting service</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h3>1.2 Financial Information</h3>
+        <p>Amwali stores your financial data locally on your device and optionally in Apple's CloudKit:</p>
+        <ul>
+            <li><strong>Transaction Records:</strong> Amount, date, category, description</li>
+            <li><strong>Account Balances:</strong> Current balances for your accounts</li>
+            <li><strong>Budget Information:</strong> Monthly budgets and spending limits</li>
+            <li><strong>Trip Expenses:</strong> Travel-related financial planning data</li>
+            <li><strong>Calculator Results:</strong> Zakat and loan calculation results</li>
+        </ul>
+
+        <div class="security-box">
+            <strong>Important:</strong> We do not collect or store actual bank account numbers, credit card details, or other sensitive financial credentials. All financial data is user-entered and remains under your control.
+        </div>
+
+        <h3>1.3 Automatically Collected Information</h3>
+        <ul>
+            <li>App version and device model</li>
+            <li>Operating system version</li>
+            <li>App usage patterns (anonymized)</li>
+            <li>Feature usage statistics</li>
+            <li>Performance metrics</li>
+        </ul>
+
+        <h2>2. How We Use Your Information</h2>
+        
+        <h3>2.1 Primary Uses</h3>
+        <ul>
+            <li><strong>App Functionality:</strong> Provide core financial management features</li>
+            <li><strong>Data Synchronization:</strong> Sync your data across your Apple devices</li>
+            <li><strong>Calculations:</strong> Perform financial calculations (Zakat, loans, etc.)</li>
+            <li><strong>Reports:</strong> Generate financial reports and analytics</li>
+            <li><strong>Backup:</strong> Maintain secure backups of your data</li>
+        </ul>
+
+        <h3>2.2 Secondary Uses</h3>
+        <ul>
+            <li>Improve app performance and user experience</li>
+            <li>Develop new features based on usage patterns</li>
+            <li>Provide customer support</li>
+            <li>Ensure app security and prevent fraud</li>
+            <li>Comply with legal obligations</li>
+        </ul>
+
+        <h2>3. Data Storage and Security</h2>
+        
+        <h3>3.1 Local Storage</h3>
+        <div class="security-box">
+            <p><strong>Primary Storage:</strong> All your financial data is primarily stored locally on your device using Apple's Core Data framework with encryption.</p>
+        </div>
+
+        <h3>3.2 Cloud Storage</h3>
+        <p>If you enable cloud synchronization:</p>
+        <ul>
+            <li>Data is stored in Apple's CloudKit service</li>
+            <li>Encrypted in transit and at rest</li>
+            <li>Accessible only through your Apple ID</li>
+            <li>Subject to Apple's privacy policies</li>
+        </ul>
+
+        <h3>3.3 Security Measures</h3>
+        <ul>
+            <li><strong>Encryption:</strong> All data is encrypted using industry-standard encryption</li>
+            <li><strong>Access Control:</strong> Data access is limited to necessary app functions</li>
+            <li><strong>No Third-Party Access:</strong> We do not share your data with third parties</li>
+            <li><strong>Secure Transmission:</strong> All network communications use HTTPS/TLS</li>
+            <li><strong>Local Authentication:</strong> Support for Face ID, Touch ID, and passcode protection</li>
+        </ul>
+
+        <h2>4. Data Sharing and Disclosure</h2>
+        
+        <div class="warning-box">
+            <strong>We Do Not Sell Your Data:</strong> We never sell, rent, or trade your personal or financial information to third parties.
+        </div>
+
+        <h3>4.1 Limited Sharing</h3>
+        <p>We may share information only in these specific circumstances:</p>
+        <ul>
+            <li><strong>Legal Requirements:</strong> When required by law or legal process</li>
+            <li><strong>Safety:</strong> To protect the safety of users or the public</li>
+            <li><strong>Business Transfer:</strong> In case of merger, acquisition, or sale of assets</li>
+            <li><strong>Service Providers:</strong> With trusted partners who assist in app operation (Apple services)</li>
+        </ul>
+
+        <h3>4.2 Apple Services</h3>
+        <p>We use the following Apple services, which have their own privacy policies:</p>
+        <ul>
+            <li><strong>CloudKit:</strong> For data synchronization</li>
+            <li><strong>StoreKit:</strong> For subscription management</li>
+            <li><strong>App Store Connect:</strong> For analytics and crash reporting</li>
+        </ul>
+
+        <h2>5. Your Privacy Rights and Choices</h2>
+        
+        <h3>5.1 Data Control</h3>
+        <ul>
+            <li><strong>Access:</strong> View all your data within the app</li>
+            <li><strong>Modify:</strong> Edit or update your information at any time</li>
+            <li><strong>Delete:</strong> Remove specific transactions or all data</li>
+            <li><strong>Export:</strong> Export your data for personal use</li>
+            <li><strong>Cloud Sync:</strong> Enable or disable cloud synchronization</li>
+        </ul>
+
+        <h3>5.2 Account Management</h3>
+        <ul>
+            <li>Manage subscription through App Store settings</li>
+            <li>Delete app and all local data by uninstalling</li>
+            <li>Disable CloudKit sync in iOS Settings</li>
+            <li>Contact us for data deletion requests</li>
+        </ul>
+
+        <h2>6. Data Retention</h2>
+        
+        <h3>6.1 Local Data</h3>
+        <p>Data stored locally on your device remains until you:</p>
+        <ul>
+            <li>Delete specific transactions or categories</li>
+            <li>Reset the app data</li>
+            <li>Uninstall the application</li>
+        </ul>
+
+        <h3>6.2 Cloud Data</h3>
+        <p>Data in CloudKit is retained according to:</p>
+        <ul>
+            <li>Your CloudKit storage settings</li>
+            <li>Apple's data retention policies</li>
+            <li>Your explicit deletion requests</li>
+        </ul>
+
+        <h2>7. International Data Transfers</h2>
+        <p>If you use Amwali outside your home country:</p>
+        <ul>
+            <li>Data may be processed in different countries</li>
+            <li>We ensure appropriate safeguards are in place</li>
+            <li>Apple's global infrastructure provides data protection</li>
+            <li>Your data receives the same level of protection</li>
+        </ul>
+
+        <h2>8. Children's Privacy</h2>
+        <div class="warning-box">
+            <strong>Age Restriction:</strong> Amwali is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
+        </div>
+
+        <h2>9. Cookies and Tracking</h2>
+        <p>Amwali does not use:</p>
+        <ul>
+            <li>Web cookies (as it's a native app)</li>
+            <li>Third-party tracking services</li>
+            <li>Advertising networks</li>
+            <li>Social media plugins</li>
+        </ul>
+
+        <h2>10. Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. When we do:</p>
+        <ul>
+            <li>We will notify you through the app</li>
+            <li>The "Last Updated" date will be revised</li>
+            <li>Significant changes will be highlighted</li>
+            <li>Continued use constitutes acceptance</li>
+        </ul>
+
+        <h2>11. Third-Party Services</h2>
+        <p>Amwali integrates with these Apple services:</p>
+        
+        <table class="data-table">
+            <thead>
+                <tr>
+                    <th>Service</th>
+                    <th>Purpose</th>
+                    <th>Data Shared</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>CloudKit</td>
+                    <td>Data synchronization</td>
+                    <td>Financial data (encrypted)</td>
+                </tr>
+                <tr>
+                    <td>StoreKit</td>
+                    <td>In-app purchases</td>
+                    <td>Purchase information</td>
+                </tr>
+                <tr>
+                    <td>App Store Connect</td>
+                    <td>Analytics and crashes</td>
+                    <td>Usage statistics (anonymized)</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h2>12. Data Breach Notification</h2>
+        <p>In the unlikely event of a data breach:</p>
+        <ul>
+            <li>We will investigate immediately</li>
+            <li>Affected users will be notified promptly</li>
+            <li>Authorities will be notified as required by law</li>
+            <li>We will provide guidance on protective measures</li>
+        </ul>
+
+        <h2>13. Your Consent</h2>
+        <p>By using Amwali, you consent to:</p>
+        <ul>
+            <li>This Privacy Policy</li>
+            <li>Collection and use of information as described</li>
+            <li>Data processing necessary for app functionality</li>
+            <li>Storage of data as outlined in this policy</li>
+        </ul>
+
+        <div class="contact-info">
+            <h2>Contact Information</h2>
+            <p>If you have any questions about this Privacy Policy or our data practices, please contact us:</p>
+            <p><strong>Email:</strong> alshemeri.xcvi@gmail.com<br>
+            <strong>Developer:</strong> Abdallah Alshemeri<br>
+            <strong>Response Time:</strong> We aim to respond within 48 hours</p>
+            
+            <h3>Data Protection Requests</h3>
+            <p>For specific data protection requests (access, deletion, correction), please include:</p>
+            <ul>
+                <li>Your Apple ID (for CloudKit data)</li>
+                <li>Device information</li>
+                <li>Specific request details</li>
+                <li>Verification of identity</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html> 
